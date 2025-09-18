@@ -7,8 +7,7 @@
     "start": "nodemon --inspect src/index.js",
     "watch": "sass -w src/resources/scss/app.scss src/public/css/app.css",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-css": "sass src/resources/scss/app.scss src/public/css/app.css",
-    "start": "nodemon"
+    "build-css": "sass src/resources/scss/app.scss src/public/css/app.css"
     },
   "repository": {
     "type": "git",
